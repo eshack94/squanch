@@ -27,7 +27,7 @@
       {
           "matches": ["<all_urls>"],
           "css": ["squanchyStyle.css"],
-          "js": ["js/jquery.min.js","js/squanchify.js"]
+          "js": ["js/jquery.min.js","js/squanchifyme.js"]
       }
   ]
 }
